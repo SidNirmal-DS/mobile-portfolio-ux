@@ -1,5 +1,3 @@
-# mobile-portfolio-ux
-
 # Mobile UX Mockup
 
 This repository showcases a mobile-first UX design for an AI Portfolio application, created in **Figma**. It extends the visual identity of my portfolio website to mobile devices and includes space for AI chatbot modules, skills display, and project storytelling.

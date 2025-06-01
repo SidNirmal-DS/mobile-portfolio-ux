@@ -20,7 +20,7 @@ To demonstrate thoughtful UX/UI skills integrated with AI product design sensibi
 
 | Hero Section | About Me | Skills | Chatbot Placeholder |
 |--------------|----------|--------|----------------------|
-| ![Hero](./assets/hero-screen.png) | ![About](./assets/about-screen.png) | ![Skills](./assets/skills-screen.png) | ![Chatbot](./assets/chatbot-placeholder.png) |
+| <img width="286" alt="image" src="https://github.com/user-attachments/assets/6030f442-ed03-4f61-bbde-75d586981174" /> | ![About](./assets/about-screen.png) | ![Skills](./assets/skills-screen.png) | ![Chatbot](./assets/chatbot-placeholder.png) |
 
 ---
 

@@ -36,6 +36,8 @@ To demonstrate thoughtful UX/UI skills integrated with AI product design sensibi
 - Typography & gradient styling
 - Mobile-first layout planning
 
+## Credit : Siddharth Nirmal
+
 ---
 
 ## 📌 Status
